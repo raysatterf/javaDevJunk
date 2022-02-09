@@ -1,8 +1,8 @@
-/*
-* Just a bunch of junk - stuff learned in Java
-* Created 02/08/2022
-*
-*/
+/**
+ * Just a bunch of junk - stuff learned in Java
+ * Created 02/08/2022
+ *
+ */
 
 import java.io.InputStream;
 import java.util.Scanner; // in order to read user-input we need to import the scanner library

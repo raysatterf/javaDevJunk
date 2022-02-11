@@ -8,7 +8,7 @@ import java.io.InputStream;
 import java.util.Scanner; // in order to read user-input we need to import the scanner library
 
 public class javaDevJunk {
-    public static void main() {
+    public static void main(String[] args) {
         // this statement initialized the scanner util to the 'scanner' var
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter text:"); // display text to user
